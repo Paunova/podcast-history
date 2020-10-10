@@ -1,1 +1,2 @@
-- Yoga with Adriene Mishler - Ep 020 | At The End of The Tunnel | 10/8/2020
+- Yoga with Adriene Mishler - EP020 | At The End of The Tunnel | 10/8/2020
+- Maxing out our stats with Personal Development Nerds - EP263 | The Stack Overflow Podcast | 10/09/020
