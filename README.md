@@ -7,3 +7,4 @@ To-dos:
 * Save URLs
 * Sorting
 * Categories
+* Integrate https://www.listennotes.com/api/?s=side
